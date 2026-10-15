@@ -1,5 +1,5 @@
-# PC 1.1.1
-Metodo Burbuja
+## PC 1.1.1
+# Metodo Burbuja
 ![alt text](assets/1.png)
-Resultado
+# Resultado
 ![alt text](assets/2.png)
